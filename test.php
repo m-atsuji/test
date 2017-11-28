@@ -1,3 +1,3 @@
 <html>
-  <p><del>hello,github!</del></p>
+  <p>とりあえずgitについてやってみる。</p>
 <html>
